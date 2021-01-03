@@ -10,7 +10,7 @@ module.exports = {
         return (this.esNumero(n1, n2) ? n1 + n2: this.mensajeError());
     },
     /**
-     * Resta de dos numeros
+     * Resta de dos numeros  
      * @example
      * n1 = 1 , n2 = 3 = > resultado -2
      * @param {*} n1 Numero uno de la resta
